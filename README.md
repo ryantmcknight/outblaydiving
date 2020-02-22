@@ -1,2 +1,2 @@
-# outblaydiving
-Outblay Diving
+# outblay
+Outblay
